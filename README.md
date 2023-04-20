@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramanjit Singh</h1>
-<h3 align="center">A passionate developer surfing different the endless ocean of Programming</h3>
+<h3 align="center">A passionate developer surfing the endless ocean of Programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramanjitsingh-hub&label=Profile%20views&color=0e75b6&style=flat" alt="ramanjitsingh-hub" /> </p>
 
