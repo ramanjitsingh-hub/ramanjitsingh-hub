@@ -1,28 +1,27 @@
-<h1 align="center">Hi 👋, I'm Ramanjit Singh</h1>
-<h3 align="center">A passionate developer surfing the endless ocean of Programming</h3>
+## Hi, I'm Ramanjit.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramanjitsingh-hub&label=Profile%20views&color=0e75b6&style=flat" alt="ramanjitsingh-hub" /> </p>
+I build products, and I study the mathematics underneath them.
 
-- 🔭 I’m currently working on **Femora**
+I'm a computer science engineer from Punjab, India. I co-founded **FemoraAI**, a women's health app used by more than 4,600 people, and now **[Luna](https://letluna.com)**, an AI executive assistant for founders. I work on software that has to make sense of messy, incomplete information, and on the numerical methods and GPU code that make it fast and trustworthy.
 
-- 👯 I’m looking to collaborate on **Solidity | Flutter**
+**Website:** [ramanjitsingh-hub.github.io](https://ramanjitsingh-hub.github.io)
 
-- 🤝 I’m looking for help with **NEXTJS**
+### Research
+Each investigation is a question, a derivation, code written from scratch, and measured results, including the ones that did not go my way.
 
-- 📝 I regularly write articles on [Blockchain](Blockchain)
+| | | |
+|---|---|---|
+| **01** | [Re-deriving a production cycle predictor](https://ramanjitsingh-hub.github.io/01/) | The Kalman filter I shipped at FemoraAI, ported line by line. It becomes a moving average after five cycles, and a 3σ safety gate can lock it out permanently. An exact Bayesian replacement fixes both. *Synthetic data.* |
+| **02** | [A Navier–Stokes solver on a 4 GB laptop GPU](https://ramanjitsingh-hub.github.io/02/) | CUDA from scratch. Matches an independent FFT solver to 5.6 × 10⁻¹⁶, exactly second order, validated on the lid-driven cavity, then 13.5× faster with the same answer. It also runs in your browser on WebGPU. |
 
-- 💬 Ask me about **Java , Python , C**
+Code for both: [ramanjitsingh-hub.github.io](https://github.com/ramanjitsingh-hub/ramanjitsingh-hub.github.io)
 
-- 📫 How to reach me **hackit830@gmail.com**
+### Building
+- **Luna** (2026 –), co-founder. Agent architecture, AI infrastructure, backend.
+- **FemoraAI** (2025 – 2026), co-founder. Backend, AI inference, data infrastructure. Per-user Kalman filtering, 7 microservices, a team of 21.
+- **Pink Parcel** (2023 – 2025), co-founder. Period kits to six university hostels in seven minutes.
 
-- ⚡ Fun fact **I love strawberries🍓**
+**Working with:** CUDA · C++ · Python · NumPy/SciPy · PyTorch · Java/Spring Boot · TypeScript · WebGPU · MongoDB · Kafka · GCP/AWS
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@itzramancoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@itzramancoder" height="30" width="40" /></a>
-<a href="https://instagram.com/ramanjit1534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramanjit1534" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
+### Contact
+hackit830@gmail.com · [LinkedIn](https://www.linkedin.com/in/ramanjitsingh1) · [Twitter](https://twitter.com/itzramancoder) · [Instagram](https://instagram.com/ramanjit1534)
