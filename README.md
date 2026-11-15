@@ -12,9 +12,10 @@ Each investigation is a question, a derivation, code written from scratch, and m
 | | | |
 |---|---|---|
 | **01** | [Re-deriving a production cycle predictor](https://ramanjitsingh-hub.github.io/01/) | The Kalman filter I shipped at FemoraAI, ported line by line. It becomes a moving average after five cycles, and a 3σ safety gate can lock it out permanently. An exact Bayesian replacement fixes both. *Synthetic data.* |
-| **02** | [A Navier–Stokes solver on a 4 GB laptop GPU](https://ramanjitsingh-hub.github.io/02/) | CUDA from scratch. Matches an independent FFT solver to 5.6 × 10⁻¹⁶, exactly second order, validated on the lid-driven cavity, then 13.5× faster with the same answer. It also runs in your browser on WebGPU. |
+| **02** | [A Navier–Stokes solver on a 4 GB laptop GPU](https://ramanjitsingh-hub.github.io/02/) | CUDA from scratch. Matches an independent FFT solver to 5.6 × 10⁻¹⁶, exactly second order, validated on the lid-driven cavity, then 13.5× faster with the same answer. Hardware counters then found warp divergence in the smoother, fixed for a 2.1× kernel speed-up. It also runs in your browser on WebGPU. |
+| **03** | [The anatomy of a graphics card](https://ramanjitsingh-hub.github.io/03/) | Microbenchmarks that each isolate one mechanism of the GPU and test it against a model written down first. Most models hold to a few percent. Follow-up experiments found a 16-entry, 2 MB address-translation cache and the 3 idle cycles behind FP64's missing 16%. |
 
-Code for both: [ramanjitsingh-hub.github.io](https://github.com/ramanjitsingh-hub/ramanjitsingh-hub.github.io)
+Code for all three: [ramanjitsingh-hub.github.io](https://github.com/ramanjitsingh-hub/ramanjitsingh-hub.github.io)
 
 ### Building
 - **Luna** (2026 –), co-founder. Agent architecture, AI infrastructure, backend.
