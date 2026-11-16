@@ -12,9 +12,9 @@ Each investigation is a question, a derivation, code written from scratch, and m
 | | | |
 |---|---|---|
 | **01** | [Re-deriving a production cycle predictor](https://ramanjitsingh-hub.github.io/01/) | The Kalman filter I shipped at FemoraAI, ported line by line. It becomes a moving average after five cycles, and a 3σ safety gate can lock it out permanently. An exact Bayesian replacement fixes both. *Synthetic data.* |
-| **04** | [When is a cheap model good enough?](https://ramanjitsingh-hub.github.io/04/) | Luna sends each request to the cheapest capable model. On 44,241 prompts answered by 13 language models, a text router matches GPT-4o at about 10% of its cost, but most of the gain is recognising the task type, and on unseen task types it falls below a fixed model. Includes the decision theory, an oracle luck analysis, and a quality guarantee certified with betting martingales. *Public benchmark data.* |
+| **02** | [When is a cheap model good enough?](https://ramanjitsingh-hub.github.io/02/) | Luna sends each request to the cheapest capable model. On 44,241 prompts answered by 13 language models, a text router matches GPT-4o at about 10% of its cost, but most of the gain is recognising the task type, and on unseen task types it falls below a fixed model. Includes the decision theory, an oracle luck analysis, and a quality guarantee certified with betting martingales. *Public benchmark data.* |
 
-**Systems (earlier work on GPU computing):** [02 · a Navier–Stokes solver on a laptop GPU](https://ramanjitsingh-hub.github.io/02/), verified to 10⁻¹⁶ and 13.5× faster · [03 · the anatomy of a graphics card](https://ramanjitsingh-hub.github.io/03/), microbenchmarks tested against models written down first.
+**Systems (earlier work on GPU computing):** [S1 · a Navier–Stokes solver on a laptop GPU](https://ramanjitsingh-hub.github.io/s1/), verified to 10⁻¹⁶ and 13.5× faster · [S2 · the anatomy of a graphics card](https://ramanjitsingh-hub.github.io/s2/), microbenchmarks tested against models written down first.
 
 Code for all of them: [ramanjitsingh-hub.github.io](https://github.com/ramanjitsingh-hub/ramanjitsingh-hub.github.io)
 
