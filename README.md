@@ -16,7 +16,6 @@ Each investigation is a question, a derivation, code written from scratch, and m
 | **03** | [What can a startup learn from fifty users?](https://ramanjitsingh-hub.github.io/03/) | A real retailer's whole customer base as ground truth, sampled at startup scale. With 50 users a retention rate is known to about ±11 points, and checking a test daily finds a false winner 42% of the time. Wilson intervals, empirical Bayes shrinkage and always-valid sequential tests recover much of it. *Public data.* |
 | **04** | [When does mixing keyword and meaning search help?](https://ramanjitsingh-hub.github.io/04/) | The fusion behind Luna's memory search, tested on five BEIR benchmarks. The popular recipe, reciprocal rank fusion, loses to meaning search alone on three. A learned weight is never significantly worse and wins on three, and a two-signal detection model predicts the direction of an equal mix. *Public data.* |
 
-**Systems (earlier work on GPU computing):** [S1 · a Navier–Stokes solver on a laptop GPU](https://ramanjitsingh-hub.github.io/s1/), verified to 10⁻¹⁶ and 13.5× faster · [S2 · the anatomy of a graphics card](https://ramanjitsingh-hub.github.io/s2/), microbenchmarks tested against models written down first.
 
 Code for all of them: [ramanjitsingh-hub.github.io](https://github.com/ramanjitsingh-hub/ramanjitsingh-hub.github.io)
 
@@ -25,7 +24,7 @@ Code for all of them: [ramanjitsingh-hub.github.io](https://github.com/ramanjits
 - **FemoraAI** (2025 – 2026), co-founder. Backend, AI inference, data infrastructure. Per-user Kalman filtering, 7 microservices, a team of 21.
 - **Pink Parcel** (2023 – 2025), co-founder. Period kits to six university hostels in seven minutes.
 
-**Working with:** Python · NumPy/SciPy · scikit-learn · PyTorch · CUDA · C++ · Java/Spring Boot · TypeScript · WebGPU · MongoDB · Kafka · GCP/AWS
+**Working with:** Python · NumPy/SciPy · scikit-learn · PyTorch · CUDA · C++ · Java/Spring Boot · TypeScript · MongoDB · Kafka · GCP/AWS
 
 ### Contact
 hackit830@gmail.com · [LinkedIn](https://www.linkedin.com/in/ramanjitsingh1) · [Twitter](https://twitter.com/itzramancoder) · [Instagram](https://instagram.com/ramanjit1534)
